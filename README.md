@@ -7,8 +7,14 @@ This work analyzes character development by capturing both their religious behav
 We cluster the resulting trajectories in the dataset, identifying common sequences in the data. 
 Our findings highlight multiple common structures of religious activity across the narratives; most present a constant disposition toward religion, serving as valuable material for historical and sociological research.
 
+
+### Cite
+
 @unpublished{CharacterJourneys2024,
+    
     author = {Esther Shizgal, Eitan Wagner, Renana Keydar and Omri Abend},
+    
     title = {Computational Analysis of Character Development in Holocaust Testimonies},
+    
     year = {2024},
 }
